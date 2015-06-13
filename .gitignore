@@ -110,3 +110,10 @@ scintilla/cppcheck.suppress
 scintilla/.hg_archival.txt
 scintilla/.hgignore
 scintilla/bin/__init__.py
+# CodeBlock Project file
+*.cbp
+*.depend
+*.layout
+*.bat
+# .objs
+.objs/
