@@ -735,7 +735,8 @@ BEGIN
     POPUP "F"
     BEGIN
         MENUITEM "Flash actionscript",    IDM_LANG_FLASH
-        MENUITEM "Fortran",               IDM_LANG_FORTRAN
+        MENUITEM "Fortran (free form)",       IDM_LANG_FORTRAN
+        MENUITEM "Fortran 77 (fixed form)",   IDM_LANG_FORTRAN_77
     END
     MENUITEM "Gui4Cli",                   IDM_LANG_GUI4CLI
     POPUP "H"
